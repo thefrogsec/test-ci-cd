@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print test
-        run: echo "test workflow"
+        run: echo "test workflowm"
